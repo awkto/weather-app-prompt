@@ -11,7 +11,7 @@ Prompt : "Build a weather app using react"
 - Error handling for failed API requests
 
 ## Screenshot
-![image](https://github.com/user-attachments/assets/1aefcebc-27f9-47a2-bd09-da489f9591ae)
+![image](https://github.com/user-attachments/assets/ff6d3710-eda2-41c1-b1a7-64bcff611c6f)
 
 
 ## Setup
