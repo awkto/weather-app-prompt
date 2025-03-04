@@ -10,6 +10,10 @@ Prompt : "Build a weather app using react"
 - Responsive design for desktop and mobile devices
 - Error handling for failed API requests
 
+## Screenshot
+![image](https://github.com/user-attachments/assets/1aefcebc-27f9-47a2-bd09-da489f9591ae)
+
+
 ## Setup
 
 1. Clone this repository
